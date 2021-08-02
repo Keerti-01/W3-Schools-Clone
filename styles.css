@@ -1,0 +1,36 @@
+*{
+    font-family: "Source Sans Pro", sans-serif;
+}
+ .bg-primary{
+    background-color: #04AA6D!important;
+} 
+
+.col-3{
+    width:15%;
+    float: right;
+}
+.header{
+    box-shadow: 1px 1px 4px rgb(238, 210, 210);
+    height: 65px;
+    /* padding: 8px 16px; */
+    
+}
+.br-50{
+    border-radius: 50%;
+}
+.login-btn{
+    font-size: 20px;
+    
+    line-height: 1;
+    width: 100px;
+    height: 45px;
+    border-radius: 30px;
+}
+ .col-2{
+    width: 10%;
+    padding: 0;
+} 
+.skill:hover{
+    
+    background-color:#04AA6D ;
+}
